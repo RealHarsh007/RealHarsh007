@@ -16,7 +16,6 @@
 </td>
 
 <td width="55%" align="center">
-
 <img 
   src="https://github.com/RealHarsh007/RealHarsh007/blob/main/logo.png?raw=true" 
   width="680" 
@@ -28,8 +27,9 @@
 </tr>
 </table>
 
----
-
+<p align="center">
+  <img src="https://github.com/RealHarsh007/RealHarsh007/blob/main/sign.png?raw=true" width="100%" />
+</p>
 <h2 align="left">🚀 Featured Projects</h2>
 
 <div style="background-color:#111827; padding:20px; border-radius:20px;">
@@ -105,6 +105,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=RealHarsh007&show_icons=true&theme=dark&hide_border=false&count_private=false)
 
 ---
+
 
 
 

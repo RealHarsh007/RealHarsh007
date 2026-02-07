@@ -96,13 +96,16 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RealHarsh007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RealHarsh007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealHarsh007&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RealHarsh007&show_icons=true&theme=dark&hide_border=false&count_private=false)
 
 ---
+
+
 
 [![](https://visitcount.itsvg.in/api?id=RealHarsh007&icon=0&color=0)](https://visitcount.itsvg.in)

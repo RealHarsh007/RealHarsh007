@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <h2>💫 About Me</h2>
 
@@ -15,9 +15,9 @@
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="250">
+<img src="https://github.com/RealHarsh007/RealHarsh007/blob/main/logo.png?raw=true" width="680">
 
 </td>
 </tr>

@@ -52,12 +52,10 @@
 <img src="https://img.shields.io/badge/🧠_Quiz_App_Project-F59E0B?style=for-the-badge"/>
 </a>
 
-
-
 <a href="https://github.com/MR-Ninja01/Safasathi">
 <img src="https://img.shields.io/badge/🛡️_Safasathi_Project-DC2626?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
-<br>
+
 <a href="https://github.com/MR-Ninja01/Registration_page">
 <img src="https://img.shields.io/badge/📝_Registration_Project-0EA5E9?style=for-the-badge"/>
 </a>

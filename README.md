@@ -31,6 +31,37 @@
 ---
 
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="left">
+
+<a href="https://github.com/MR-Ninja01/luxdrive-car-showroom">
+<img src="https://img.shields.io/badge/🏎️_LuxeDrive_Project-2563EB?style=for-the-badge"/>
+</a><br>
+
+<a href="https://github.com/MR-Ninja01/SieraBot">
+<img src="https://img.shields.io/badge/🤖_SieraBot_Project-7C3AED?style=for-the-badge"/>
+</a><br>
+
+<a href="https://github.com/MR-Ninja01/FSD">
+<img src="https://img.shields.io/badge/💻_FSD_Project_____ -059669?style=for-the-badge"/>
+</a><br>
+
+<a href="https://github.com/MR-Ninja01/Quiz-app-For-Interview">
+<img src="https://img.shields.io/badge/🧠_Quiz_App_Project- F59E0B?style=for-the-badge"/>
+</a><br>
+
+<a href="https://github.com/MR-Ninja01/Safasathi">
+<img src="https://img.shields.io/badge/🛡️_Safasathi_Project-DC2626?style=for-the-badge"/>
+</a><br>
+
+<a href="https://github.com/MR-Ninja01/Registration_page">
+<img src="https://img.shields.io/badge/📝_Registration_Project-0EA5E9?style=for-the-badge"/>
+</a>
+
+</p>
+
+
 
 
 ---

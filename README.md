@@ -30,8 +30,9 @@
 
 ---
 
-
 <h2 align="left">🚀 Featured Projects</h2>
+
+<div style="background-color:#111827; padding:20px; border-radius:20px;">
 
 <p align="left">
 
@@ -51,18 +52,19 @@
 <img src="https://img.shields.io/badge/🧠_Quiz_App_Project-F59E0B?style=for-the-badge"/>
 </a>
 
-<br>
+
 
 <a href="https://github.com/MR-Ninja01/Safasathi">
 <img src="https://img.shields.io/badge/🛡️_Safasathi_Project-DC2626?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
-
+<br>
 <a href="https://github.com/MR-Ninja01/Registration_page">
 <img src="https://img.shields.io/badge/📝_Registration_Project-0EA5E9?style=for-the-badge"/>
 </a>
 
 </p>
 
+</div>
 
 
 ---

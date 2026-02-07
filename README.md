@@ -31,29 +31,31 @@
 ---
 
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <p align="left">
 
 <a href="https://github.com/MR-Ninja01/luxdrive-car-showroom">
 <img src="https://img.shields.io/badge/🏎️_LuxeDrive_Project-2563EB?style=for-the-badge"/>
-</a><br>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/SieraBot">
 <img src="https://img.shields.io/badge/🤖_SieraBot_Project-7C3AED?style=for-the-badge"/>
-</a><br>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/FSD">
-<img src="https://img.shields.io/badge/💻_FSD_Project_____ -059669?style=for-the-badge"/>
-</a><br>
+<img src="https://img.shields.io/badge/💻_FSD_Project-059669?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Quiz-app-For-Interview">
-<img src="https://img.shields.io/badge/🧠_Quiz_App_Project- F59E0B?style=for-the-badge"/>
-</a><br>
+<img src="https://img.shields.io/badge/🧠_Quiz_App_Project-F59E0B?style=for-the-badge"/>
+</a>
+
+<br>
 
 <a href="https://github.com/MR-Ninja01/Safasathi">
 <img src="https://img.shields.io/badge/🛡️_Safasathi_Project-DC2626?style=for-the-badge"/>
-</a><br>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Registration_page">
 <img src="https://img.shields.io/badge/📝_Registration_Project-0EA5E9?style=for-the-badge"/>
@@ -63,12 +65,18 @@
 
 
 
-
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/real_harsh_003/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta-java-developer/)  
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/real_harsh_003/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta-java-developer/)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MrHarsh002)
+&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100022932289132)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:legendp661@gmail.com)
 
 ---

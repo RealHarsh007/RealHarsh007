@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hi, I'm Harshit</h1>
 
+<div> <img src="https://github.com/RealHarsh007/RealHarsh007/blob/main/dash.png?raw=true"></div>
 <table>
 <tr>
 <td width="45%" valign="top">

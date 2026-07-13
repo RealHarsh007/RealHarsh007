@@ -1,0 +1,22 @@
+<!-- Card 3 -->
+
+<rect x="22" y="216" width="476" height="56" rx="12" fill="#161B22"/>
+
+<text
+x="40"
+y="240"
+font-size="17"
+font-weight="700"
+fill="#A78BFA"
+font-family="Segoe UI">
+🛒 Lexxi Ecommerce
+</text>
+
+<text
+x="40"
+y="260"
+font-size="13"
+fill="#8B949E"
+font-family="Segoe UI">
+Modern React + Node.js Ecommerce Platform
+</text>

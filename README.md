@@ -37,27 +37,27 @@
 <p align="left">
 
 <a href="https://github.com/MR-Ninja01/luxdrive-car-showroom">
-<img src="https://img.shields.io/badge/🏎️_LuxeDrive_Project-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏎️_LuxeDrive_Showroom-2563EB?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/MR-Ninja01/SieraBot">
-<img src="https://img.shields.io/badge/🤖_SieraBot_Project-7C3AED?style=for-the-badge"/>
+<a href="https://github.com/MR-Ninja01/CoffeeHouse">
+  <img src="https://img.shields.io/badge/☕_CoffeeHouse-8B5E3C?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/MR-Ninja01/FSD">
-<img src="https://img.shields.io/badge/💻_FSD_Project-059669?style=for-the-badge"/>
+<a href="https://github.com/MR-Ninja01/LExxi-Ecommerce">
+  <img src="https://img.shields.io/badge/🛒_LExxi_Ecommerce-7C3AED?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/MR-Ninja01/Quiz-app-For-Interview">
-<img src="https://img.shields.io/badge/🧠_Quiz_App_Project-F59E0B?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/MR-Ninja01/Safasathi">
-<img src="https://img.shields.io/badge/🛡️_Safasathi_Project-DC2626?style=for-the-badge"/>
+<a href="https://github.com/MR-Ninja01/Portfolio">
+  <img src="https://img.shields.io/badge/👨‍💻_Portfolio-059669?style=for-the-badge"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/MR-Ninja01/Registration_page">
-<img src="https://img.shields.io/badge/📝_Registration_Project-0EA5E9?style=for-the-badge"/>
+<a href="https://github.com/MR-Ninja01/Stylish-Calculator">
+  <img src="https://img.shields.io/badge/🧮_Stylish_Calculator-F59E0B?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/MR-Ninja01/DemonSlayer-Gallery">
+  <img src="https://img.shields.io/badge/⚔️_DemonSlayer_Gallery-DC2626?style=for-the-badge"/>
 </a>
 
 </p>

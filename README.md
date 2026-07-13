@@ -58,6 +58,18 @@
 
 <a href="https://github.com/MR-Ninja01/DemonSlayer-Gallery">
   <img src="https://img.shields.io/badge/⚔️_DemonSlayer_Gallery-DC2626?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/MR-Ninja01/Quiz-app-For-Interview">
+  <img src="https://img.shields.io/badge/🧠_Interview_Quiz_App-0EA5E9?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/MR-Ninja01/Total-DSA-With-CPP">
+  <img src="https://img.shields.io/badge/📚_Total_DSA_With_C++-9333EA?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/MR-Ninja01/DemoDesign">
+  <img src="https://img.shields.io/badge/🎨_DemoDesign-14B8A6?style=for-the-badge"/>
 </a>
 
 </p>

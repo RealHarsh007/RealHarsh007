@@ -1,5 +1,5 @@
 
-<div> <img src="https://github.com/RealHarsh007/RealHarsh007/blob/main/dash.png?raw=true"></div>
+<div> <img src="https://github.com/RealHarsh007/RealHarsh007/blob/main/dash.png?raw=true" width="100%"></div>
 <table>
 <tr>
 <td width="45%" valign="top">

@@ -33,47 +33,49 @@
 <h2 align="left">🚀 Featured Projects</h2>
 
 <div style="background-color:#111827; padding:20px; border-radius:20px;">
-
 <p align="left">
 
+<a href="https://github.com/RealHarsh007/cinewhim-movie-recommender">
+  <img src="https://img.shields.io/badge/🎬_CineWhim_Movie_Recommender-E5233B?style=for-the-badge" alt="CineWhim Movie Recommender"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://github.com/MR-Ninja01/luxdrive-car-showroom">
-  <img src="https://img.shields.io/badge/🏎️_LuxeDrive_Showroom-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏎️_LuxeDrive_Showroom-2563EB?style=for-the-badge" alt="LuxeDrive Showroom"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/CoffeeHouse">
-  <img src="https://img.shields.io/badge/☕_CoffeeHouse-8B5E3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☕_CoffeeHouse-8B5E3C?style=for-the-badge" alt="CoffeeHouse"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/LExxi-Ecommerce">
-  <img src="https://img.shields.io/badge/🛒_LExxi_Ecommerce-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛒_LExxi_Ecommerce-7C3AED?style=for-the-badge" alt="LExxi Ecommerce"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Portfolio">
-  <img src="https://img.shields.io/badge/👨‍💻_Portfolio-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👨‍💻_Portfolio-059669?style=for-the-badge" alt="Portfolio"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Stylish-Calculator">
-  <img src="https://img.shields.io/badge/🧮_Stylish_Calculator-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧮_Stylish_Calculator-F59E0B?style=for-the-badge" alt="Stylish Calculator"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/DemonSlayer-Gallery">
-  <img src="https://img.shields.io/badge/⚔️_DemonSlayer_Gallery-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚔️_DemonSlayer_Gallery-DC2626?style=for-the-badge" alt="Demon Slayer Gallery"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Quiz-app-For-Interview">
-  <img src="https://img.shields.io/badge/🧠_Interview_Quiz_App-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_Interview_Quiz_App-0EA5E9?style=for-the-badge" alt="Interview Quiz App"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/Total-DSA-With-CPP">
-  <img src="https://img.shields.io/badge/📚_Total_DSA_With_C++-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚_Total_DSA_With_C++-9333EA?style=for-the-badge" alt="Total DSA With C++"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/MR-Ninja01/DemoDesign">
-  <img src="https://img.shields.io/badge/🎨_DemoDesign-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎨_DemoDesign-14B8A6?style=for-the-badge" alt="DemoDesign"/>
 </a>
 
 </p>
-
 </div>
 
 
